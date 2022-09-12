@@ -7,7 +7,7 @@ The goal of the project is to determine how we can make defensive midfielders mo
 
 One solution is to not award clean sheet points to attacking midfielders and wingers (wingers are considered midfielders in FPL), and possibly increase the clean sheet reward to 2 points for defensive midfielders. However, this introduces the problem of how we distinguish between a defensive and attacking midfielder. Some midfielders don't strictly fall under either category, or serve different roles for their clubs.
 
-A viable solution would be to award 1 point for every 3 ball recoveries (interceptions + tackles won) made during a match. Since defensive midfielders are far more likely to register meaningful numbers for interceptions and successful tackles than attacking midfielders and wingers, this new scoring system would help close the large gap in points between them. This web scraper pulls position and price data from the GitHub FPL archive, and tackles and interceptions statistics from FBref.
+A viable solution would be to award 1 point for every 3 ball recoveries (interceptions + tackles won) made during a match. Since defensive midfielders are far more likely to register meaningful numbers for interceptions and successful tackles than attacking midfielders and wingers, this new scoring system would help close the large gap in points between them. This web scraper pulls position and points data from the GitHub FPL archive, and tackles and interceptions statistics from FBref.
 
 ## Sources
 https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures
